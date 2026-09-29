@@ -16,4 +16,4 @@ Services running in docker on this host and the ports they are using
 | plantuml | 8881 | 8080 |  |
 | moov.io | 8882 | 8080 | needs docker-compose file |
 | postgres | 5432 | 5432 |  | 
-| otterwiki | 8081 | 3000 |  |
+| otterwiki | 8083 | 3000 |  |
