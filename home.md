@@ -26,3 +26,7 @@ We hope that An Otter Wiki is just what you are looking for.
 If you have any suggestions, feature requests or run into any
 issues, please reach out and report them
 via [github](https://github.com/redimp/otterwiki/issues).
+
+
+Bearskins and Stone Knives!
+
