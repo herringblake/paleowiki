@@ -1,5 +1,9 @@
 # Docker Service Port Map
 
+## _!!DEPRECATED!!_
+
+This information is no longer valid now that we have kubernetes deployed.
+
 Services running in docker on this host and the ports they are using
 
 | Service Name | External Port | Internal Port | Notes |
