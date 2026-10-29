@@ -1,5 +1,7 @@
 # Network and hosts
 
+![](./paleotek-network.drawio.png)
+
 ## The machines
 
 | Host | Address | Role |
